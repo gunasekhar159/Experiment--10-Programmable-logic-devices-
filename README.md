@@ -16,7 +16,15 @@ Figure -01 PROM
  
  
 ### Procedure
-/* write all the steps invloved */
+1.Open Quartus II and select new project and choose the file location.
+
+2.Declare the file name of module.
+
+3.Declare the input and outputd.
+
+4.Use begin declaration to define the functionality of logic circuits.
+
+5.End the module.
 
 
 
